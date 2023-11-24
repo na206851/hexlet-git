@@ -1,2 +1,0 @@
-Haskell Curry
-Nikita Shavrov
