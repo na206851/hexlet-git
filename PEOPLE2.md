@@ -1,1 +1,3 @@
-Shamil Dardaev
+Haskell Curry
+Nikita Shavrov
+Vasya Puplin
