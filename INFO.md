@@ -1,1 +1,1 @@
-NO code NO pain
+добавили ися в файл PEOPLE2.md
