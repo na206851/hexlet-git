@@ -1,1 +1,1 @@
-добавили ися в файл PEOPLE2.md
+hello hexlet!
